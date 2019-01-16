@@ -110,3 +110,6 @@ venv.bak/
 #deep learning files folder 
 
 /deep-learning-v2-pytorch
+
+#assets folder
+/assets
